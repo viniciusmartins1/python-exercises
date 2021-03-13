@@ -1,5 +1,5 @@
 # Exercícios de Python
-- Exercícios do Mundo 1 e 2 do curso de Python no [Curso em Vídeo](youtube.com/cursoemvideo).
+- Exercícios do Mundo 1 e 2 do curso de Python no [Curso em Vídeo](http://youtube.com/cursoemvideo).
 ##  Assuntos dos exercícios
 - Estrutura Básica de Python;
 - Estruturas Condicionais(if...elif...else);
