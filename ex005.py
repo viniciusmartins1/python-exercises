@@ -1,2 +1,3 @@
-n = float(input('Digite um numero: '))
-print('Analisando o valor {}, seu antecessor é {} e seu sucessor {}'.format(n, (n - 1), (n + 1)))
+n = float(input('Digite um número: '))
+print(f'Analisando o número {n}, seu antecessor é {n - 1} e seu sucessor é {n + 1}')
+

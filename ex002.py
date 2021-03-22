@@ -1,4 +1,2 @@
-msg = input('Digite seu nome: ')
-print('É um prazer te conhecer {}{}{}'.format('\033[0;33m', msg, '\033[m'))
-
-
+msg = str(input('Digite o seu nome: '))
+print(f'É um prazer te conhecer \033[0;35m {msg} \033[m')
