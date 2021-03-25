@@ -5,6 +5,8 @@
 - Estruturas Condicionais(if...elif...else);
 - Estruturas de Repetição (for e while);
 - Alguns métodos e bibliotecas(date e math);
+- Listas;
+- Tuplas;
 
 ## Imagens dos Exercícios <código>
 
